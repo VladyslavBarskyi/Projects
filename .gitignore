@@ -51,3 +51,4 @@ rsconnect/
 # Custom Exclusions for Portfolio Optimization
 # Ignore compiled HTML outputs to keep the GitHub repository 100% pure R code
 *.html
+rate_separation.png
